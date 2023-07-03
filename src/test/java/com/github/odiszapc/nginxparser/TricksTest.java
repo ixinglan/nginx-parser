@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import java.util.Iterator;
 
-import static com.github.odiszapc.nginxparser.TestUtils.assertBlock;
+import static com.github.odiszapc.nginxparser.TestUtils.*;
 
 public class TricksTest  extends ParseTestBase {
 
