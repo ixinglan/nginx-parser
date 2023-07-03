@@ -18,6 +18,15 @@ Fix some bugs:
 - support find if block
 - ...
 
+### Usage method
+you can use by maven dependency
+```xml
+    <dependency>
+        <groupId>io.github.ixinglan</groupId>
+        <artifactId>nginx-parser</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+```
 ### Authors
 zhaojq
 
